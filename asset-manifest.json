@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.758e26f4.css",
-    "main.js": "./static/js/main.71d74cd9.js",
+    "main.js": "./static/js/main.98c4b9e6.js",
     "static/js/453.68693753.chunk.js": "./static/js/453.68693753.chunk.js",
     "static/media/background.png": "./static/media/background.e6979288089c10199bfa.png",
     "static/media/telegram.svg": "./static/media/telegram.b0c9667640d56263e4647585e0f4fb52.svg",
@@ -42,11 +42,11 @@
     "static/media/statisticsArrowRight.svg": "./static/media/statisticsArrowRight.3daf16467905e170a2a5537d09a742a8.svg",
     "static/media/success.svg": "./static/media/success.d776731a24e0f5a71abe1fdee1eddf57.svg",
     "main.758e26f4.css.map": "./static/css/main.758e26f4.css.map",
-    "main.71d74cd9.js.map": "./static/js/main.71d74cd9.js.map",
+    "main.98c4b9e6.js.map": "./static/js/main.98c4b9e6.js.map",
     "453.68693753.chunk.js.map": "./static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.758e26f4.css",
-    "static/js/main.71d74cd9.js"
+    "static/js/main.98c4b9e6.js"
   ]
 }
